@@ -1,4 +1,4 @@
-package com.ccBiver.litepagerx
+package com.ccbiver.litepagerx
 
 /**
  * com.test.myapplication

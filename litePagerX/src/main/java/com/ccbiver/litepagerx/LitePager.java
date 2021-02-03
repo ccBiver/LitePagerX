@@ -1,4 +1,4 @@
-package com.ccBiver.litepagerx;
+package com.ccbiver.litepagerx;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;

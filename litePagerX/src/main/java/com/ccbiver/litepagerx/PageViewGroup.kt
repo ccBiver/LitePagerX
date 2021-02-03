@@ -1,4 +1,4 @@
-package com.ccBiver.litepagerx
+package com.ccbiver.litepagerx
 
 import android.content.Context
 import android.graphics.*
@@ -14,7 +14,7 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
 import androidx.lifecycle.Observer
 import com.bumptech.glide.Glide
-import com.ccBiver.litepagerx.databinding.LayoutPageBinding
+import com.ccbiver.litepagerx.databinding.LayoutPageBinding
 
 
 class PageViewGroup : FrameLayout {

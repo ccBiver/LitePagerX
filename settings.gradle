@@ -1,2 +1,3 @@
 rootProject.name = "LitePagerX"
 include ':app'
+include ':litePagerX'

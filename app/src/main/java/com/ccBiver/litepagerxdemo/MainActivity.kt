@@ -1,7 +1,8 @@
-package com.ccBiver.litepagerx
+package com.ccBiver.litepagerxdemo
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.ccbiver.litepagerx.PageViewGroup
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
