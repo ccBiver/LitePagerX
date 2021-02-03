@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LitePager">
+        <attr name="orientation" format="enum">
+            <enum name="horizontal" value="0" />
+            <enum name="vertical" value="1" />
+        </attr>
+
+        <attr name="flingDuration" format="integer" />
+        <attr name="viewCount" format="integer"/>
+        <attr name="bottomScale" format="float" />
+        <attr name="bottomAlpha" format="float" />
+        <attr name="leftRotation" format="float"/>
+        <attr name="middleScale" format="float" />
+        <attr name="middleAlpha" format="float" />
+        <attr name="rightRotation" format="float"/>
+        <attr name="topScale" format="float" />
+        <attr name="topAlpha" format="float" />
+        <attr name="topRotation" format="float"/>
+        <attr name="autoScroll" format="boolean" />
+        <attr name="autoScrollInterval" format="integer" />
+        <attr name="autoScrollOrientation" format="enum">
+            <enum name="left" value="0" />
+            <enum name="right" value="1" />
+            <enum name="up" value="0" />
+            <enum name="down" value="1" />
+        </attr>
+
+    </declare-styleable>
+</resources>
